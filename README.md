@@ -3,8 +3,6 @@
 
 <p align="left">Lê Văn Phú (sinh ngày 10 tháng 11 năm 1988) Được mọi người biết đến với tư cách là một Doanh Nhân, CEO và Lập trinh viên chuyên nghiệp . Lê Văn Phú sinh ra tại Tỉnh Kiên Giang, hiện tại đang sinh sống và làm việc tại Hồ Chí Minh.</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackerpro536" alt="hackerpro536" /></a> </p>
-
 - 🔭 I’m currently working on [LP Technology Ec Co,. ltd](https://lptech.asia)
 
 - 🌱 You looking my phone **NO**

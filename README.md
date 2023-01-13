@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phu</h1>
 <h3 align="center">★ 道不同不相爲謀 "𝓓𝓸 𝔀𝓱𝓪𝓽 𝔂𝓸𝓾 𝓵𝓸𝓿𝓮, 𝓵𝓸𝓿𝓮 𝔀𝓱𝓪𝓽 𝔂𝓸𝓾 𝓭𝓸" ❤︎ 千里の道も　一歩から ❤︎ 和をもって尊しとなす</h3>
 
-<p align="left">Lê Văn Phú (sinh ngày 10 tháng 11 năm 1988) Được mọi người biết đến với tư cách là một Doanh Nhân, CEO và Lập trinh viên chuyên nghiệp . Lê Văn Phú sinh ra tại Tỉnh Kiên Giang, hiện tại đang sinh sống và làm việc tại Hồ Chí Minh.</p>
-
 - 🔭 I’m currently working on [LP Technology Ec Co,. ltd](https://lptech.asia)
 
 - 🌱 You looking my phone **NO**

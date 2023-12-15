@@ -18,7 +18,7 @@
 - 📫 How to reach me **hackerpro536@gmail.com**
 
 - 📄 Know about my experiences [https://hvngroups.net](https://hvngroups.net)
-- See more about me at [https://martech.fandom.com/vi/wiki/CEO_L%C3%AA_V%C4%83n_Ph%C3%BA(https://martech.fandom.com/vi/wiki/CEO_L%C3%AA_V%C4%83n_Ph%C3%BA)]
+- See more about me at https://martech.fandom.com/vi/wiki/CEO_L%C3%AA_V%C4%83n_Ph%C3%BA
 
 - ⚡ Coffee with me ? **Yes, we do it now!**
 

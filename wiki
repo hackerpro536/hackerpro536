@@ -1,0 +1,60 @@
+{{Infobox person
+| name          = CEO Lê Văn Phú
+[[File:Ponishare-verified.png|17px]]
+| image         = Phu-avatar-23.png
+| alt           = Lê Văn Phú
+| caption       = Hình Ảnh CEO Lê Văn Phú
+| native_name   = Lê Văn Phú
+| birth_date    = 10 tháng 11, 1988
+| birth_place   = [[Kiên Giang]], [[Việt Nam]]
+| residence     = [[Hồ Chí Minh]]
+| height        = 1,80 m
+| parents       = 
+| death_date    =
+| nationality   = [[VietNam]]
+| occupation         = 
+{{flatlist|
+* [[Entrepreneur]]
+* [[SEO expert]]
+* [[Developer]]
+* [[Cyber Security Expert]]
+}}
+| years_active  = 2004
+| known_for          =Best '''[[Google Product Expert]]'''
+| website       = https://levanphu.info}}
+
+'''Lê Văn Phú''' (sinh ngày 10 tháng 11 năm 1988) là một chuyên gia bảo mật, an ninh mạng. Anh được biết đến nhiều khi làm Quản trị viên diễn đàn bảo mật an ninh mạng HVN, sau quản thời gian làm bảo mật anh tiếp tục làm các công việc liên quan đến lập trình, hệ thống.
+
+Ngoài ra Lê Văn Phú là một doanh nhân trong lĩnh vực công nghệ thông tin. Ông là '''Giám đốc Công ty TNHH TMĐT Công nghệ LP - LP Tech''' ™, một công ty hàng đầu với chuyên môn về SEO và Thiết kế website.
+
+Bên cạnh đó anh còn là một chuyên gia sản phẩm Google có kinh nghiệm rộng trong việc tối ưu hóa hiệu suất và tăng cường khả năng tiếp cận khách hàng thông qua các công cụ và dịch vụ của Google. Ông cũng là một Kỹ sư an ninh mạng, bảo mật thông tin, có kiến thức chuyên sâu về bảo mật website và hệ thống.
+
+Phú sinh ra ở An Minh, Kiên Giang, Việt Nam, Gia đình theo truyền thống nhà giáo, từ nhỏ anh đã đam mê công nghệ thông tin và an ninh mạng.
+
+
+== Bỏ nghề kỹ sư công nghệ đi khởi nghiệp ==
+ 
+Sau khi làm việc ở các công ty quốc tế trong và ngoài nước nhiều năm liền với nhiều cương vị khác nhau, từ lập trình viên, kỹ sư, chuyên gia cho đến các vị trí C-Level như Chief, rồi CTO, CMO. Cuối cùng anh đã quyết định khởi nghiệp và thành lập '''Công ty TNHH TMĐT Công Nghệ LP [https://lptech.asia/]''' vào năm 2019 với mong muốn đóng góp sức lực vào sự nghiệp phát triển công nghệ thông tin nước nhà.
+
+
+== Được Google vinh danh “Chuyên gia sản phẩm Google [https://lptech.asia/cong-ty/ceo-cua-lptech-duoc-google-vinh-danh-chuyen-gia-san-pham-google]” ==
+
+Trong sự kiện "Chuyên gia sản phẩm Google" tổ chức tại văn phòng của Google ở Singapore vừa qua, CEO của LPTech đã vô cùng vinh dự khi được Google vinh danh với giải thưởng Troubleshooter Award.
+
+Ông Lê Văn Phú là CEO của Công ty TNHH TMĐT Công nghệ LP, là chuyên gia trong giới bảo mật, được ICSI UK cấp chứng chỉ CNSS Certified Network Security Specialist[https://www.credential.net/db5a6989-c178-4e28-be7d-fb0a127f5234] - Chuyên gia bảo mật quốc tế. Đồng thời, ông cũng là chuyên gia sản phẩm của Google tại khu vực APAC (Châu Á, Thái Bình Dương).
+
+Bắt đầu từ năm 2012 đến nay, Ông Lê Văn Phú đã không ngừng nỗ lực, cố gắng để hỗ trợ và chia sẻ kiến thức chuyên môn, những mẹo hữu ích của mình đến với người dùng, nhằm giải đáp các thắc mắc hoặc vấn đề thường gặp về các sản phẩm của Google trong cộng đồng. Và tại sự kiện lần này, Ông được vinh danh là một trong các chuyên gia xuất sắc nhất của Google tại thị trường Châu Á với giải thưởng Troubleshooter Award.
+
+== '''Social media links'''==
+
+'''CEO Lê Văn Phú''' on '''Facebook'''[https://www.facebook.com/vanphupc50]
+
+'''CEO Lê Văn Phú''' on '''LinkedIn'''[https://www.linkedin.com/in/vanphupc50/]
+
+'''Google Product Expert Profile''' on '''Google'''[https://productexperts.withgoogle.com/directory/ef0743d1-2374-40ac-82ee-01ebb35abb3d]
+
+'''Google Support Profile''' on '''Google Community'''[https://support.google.com/profile/133699019?sjid=1607790837675742658-AP]
+
+== Official website==
+
+https://levanphu.info
